@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+spacy
+reportlab
+transformers
+torch
+pandas
+pydub
+streamlit-audiorec
+SpeechRecognition
